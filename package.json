@@ -13,6 +13,7 @@
     "cors": "^2.8.5",
     "crypto-js": "^4.0.0",
     "elliptic": "^6.5.3",
+    "ethairballoons": "^1.0.7",
     "express": "^4.17.1",
     "mongoose": "^5.9.26"
   }
